@@ -1,6 +1,4 @@
 source :rubygems
-source :rubyforge
-source :gemcutter
 
 gem "rack"
 gem "sinatra"
